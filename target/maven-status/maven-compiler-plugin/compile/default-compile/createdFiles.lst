@@ -1,0 +1,7 @@
+app/AppInitializer.class
+beans/MockBookService.class
+controllers/AuthorController.class
+app/AppConfig.class
+models/Author.class
+controllers/BookController.class
+models/Book.class
